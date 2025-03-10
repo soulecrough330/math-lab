@@ -1,0 +1,11 @@
+let num1 = Math.random() * 10;
+let num2 = Math.random() * 10;
+console.log(`Random numbers are ${num1} and ${num2}`);
+let sum = num1 + num2;
+console.log(`Sum is ${sum}`);
+let difference = num1 - num2;
+console.log(`Difference is ${difference}`);
+let product = num1 * num2;
+console.log(`Product is ${product}`);
+let quotient = num1 / num2;
+console.log(`Quotient is ${quotient}`);
